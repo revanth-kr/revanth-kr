@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @revanth-kr
 - 👀 I’m interested in anime, volleyball, networking
-- 🌱 I’m currently learning hacking for security
+- 🌱 I’m currently learning hacking for securities
 - 💞️ I’m looking to collaborate on my intrests
 - 📫 How to reach me through Git
 
